@@ -1,5 +1,4 @@
 ---
-- hosts: localhost
   name: Install node_exporter on RHEL8
   become: true
   tasks:
